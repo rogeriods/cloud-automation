@@ -21,3 +21,7 @@ dotnet run
 # Running with BAT file or you can put this script on schedule tasks
 PS C:\..\cloud-automation> ./automation.bat
 ```
+
+# Refence and Guides
+
+- https://learn.microsoft.com/pt-br/training/modules/msgraph-access-file-data/
